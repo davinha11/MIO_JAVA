@@ -19,7 +19,7 @@ public class Test {
         public void run() {
             int i=0;
             while(!isInterrupted()) {
-                // queue.add(i++); on è un operazione atomica, quindi può creare dei problemi, per questo si usano delle operazioni safe
+                // queue.add(i++); Non è un operazione atomica, quindi può creare dei problemi, per questo si usano delle operazioni safe
 
                 synchronized (queue) {
                     if (queue.size()<maxqueuesize) {

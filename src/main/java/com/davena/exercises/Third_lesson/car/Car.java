@@ -1,4 +1,4 @@
-package com.davena.exercises.car;
+package com.davena.exercises.Third_lesson.car;
 
 public class  Car {
     boolean isOn;
@@ -23,5 +23,11 @@ public class  Car {
         isOn = false;
     }
 
-
+    @Override
+    public String toString() {
+        return "Car{" +
+                "isOn=" + isOn +
+                ", licencePlate='" + licencePlate + '\'' +
+                '}';
+    }
 }

@@ -4,32 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b34a554-bdc1-41aa-8bc9-bbc07dd77d95" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Files/Books/Introduction to Programming Using Java.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Files/Books/Java-Coding-Standard.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Files/Books/Object Oriented vs Functional Programming.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Files/Books/The Java Language Specification.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Files/Books/UML Distilled.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Files/Slides/E1 - Java From Functions to Objects.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Files/Slides/E2 - Java Basics.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/davena/exercises/First_lesson/array/array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/davena/exercises/First_lesson/intro/intro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/davena/exercises/Third_lesson/Prova.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/davena/exercises/Third_lesson/basic_ClickCounter/ClickCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/davena/exercises/car/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/davena/exercises/car/SDCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/davena/exercises/Third_lesson/basic_ClickCounter/ClickCounterTest.java" afterDir="false" />
+    <list default="true" id="5b34a554-bdc1-41aa-8bc9-bbc07dd77d95" name="Changes" comment="java_ex">
+      <change afterPath="$PROJECT_DIR$/Files/Slides/E3 - Java Object Oriented-1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/Slides/E4 - Java Data Structures.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/Slides/E5 - Java Generic Data Structures.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/Slides/E5 - Java Generic Data Structures.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/Slides/E6 - Java Functional Programming (Functions).md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/davena/exercises/Fourth_lesson/AbstractShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/davena/exercises/Fourth_lesson/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/davena/exercises/Fourth_lesson/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/davena/exercises/Fourth_lesson/Computable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/davena/exercises/Fourth_lesson/MyShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/davena/exercises/Fourth_lesson/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/davena/exercises/LESSON2203/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/davena/exercises/LESSON2203/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/davena/exercises/LESSON2303/MapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/davena/exercises/LESSON2303/PPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/davena/exercises/LESSON2303/PPersonComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/davena/exercises/LESSON2303/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/davena/exercises/LESSON2303/TestOrdinamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/davena/exercises/Sixth_Lesson/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/davena/exercises/Test_Thread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/davena/exercises/Third_lesson/car/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/davena/exercises/Thread/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/links" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/davena/exercises/car/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/davena/exercises/Third_lesson/car/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/davena/exercises/car/SDCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/davena/exercises/Third_lesson/car/SDCar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +42,23 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MIO_JAVA" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -51,6 +69,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/davena/exercises/LESSON2303/MapTest.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -68,13 +89,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "last_opened_file_path": "C:/Users/gabri/IdeaProjects/MIO_JAVA/Files/Slides",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gabri\IdeaProjects\MIO_JAVA\Files\Slides" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\gabri\IdeaProjects\MIO_JAVA\Files\Slides" />
       <recent name="C:\Users\gabri\IdeaProjects\MIO_JAVA\Files\Books" />
@@ -87,13 +112,13 @@
       <recent name="com.davena.exercises.Third_lesson.basic_ClickCounter" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SDCar">
-    <configuration name="SDCar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.davena.exercises.car.SDCar" />
+  <component name="RunManager" selected="Application.com.davena.exercises.LESSON2303.Test">
+    <configuration name="MapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.davena.exercises.LESSON2303.MapTest" />
       <module name="MIO_JAVA.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.davena.exercises.car.*" />
+          <option name="PATTERN" value="com.davena.exercises.LESSON2303.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,105 +126,64 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClickCounterTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;com.davena.exercises.Third_lesson.basic_ClickCounter.ClickCounterTest&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.davena.exercises.Thread.Test" />
+      <module name="MIO_JAVA.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.davena.exercises.Thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="ClickCounterTest.click" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;com.davena.exercises.Third_lesson.basic_ClickCounter.ClickCounterTest.click&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.davena.exercises.LESSON2203.Test1" />
+      <module name="MIO_JAVA.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.davena.exercises.LESSON2203.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="ClickCounterTest.getValue" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;com.davena.exercises.Third_lesson.basic_ClickCounter.ClickCounterTest.getValue&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
+    <configuration name="Test_Thread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.davena.exercises.Test_Thread" />
+      <module name="MIO_JAVA.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.davena.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="ClickCounterTest.reset" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;com.davena.exercises.Third_lesson.basic_ClickCounter.ClickCounterTest.reset&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
+    <configuration name="com.davena.exercises.LESSON2303.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.davena.exercises.LESSON2303.Test" />
+      <module name="MIO_JAVA.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.davena.exercises.LESSON2303.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SDCar" />
-        <item itemvalue="Gradle.ClickCounterTest.reset" />
-        <item itemvalue="Gradle.ClickCounterTest.click" />
-        <item itemvalue="Gradle.ClickCounterTest.getValue" />
-        <item itemvalue="Gradle.ClickCounterTest" />
+        <item itemvalue="Application.Test_Thread" />
+        <item itemvalue="Application.MapTest" />
+        <item itemvalue="Application.com.davena.exercises.LESSON2303.Test" />
+        <item itemvalue="Application.Test1" />
       </list>
     </recent_temporary>
   </component>
@@ -212,6 +196,14 @@
       <option name="presentableId" value="Default" />
       <updated>1677864108509</updated>
     </task>
+    <task id="LOCAL-00001" summary="java_ex">
+      <created>1678381263754</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678381263754</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,5 +216,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="java_ex" />
+    <option name="LAST_COMMIT_MESSAGE" value="java_ex" />
   </component>
 </project>

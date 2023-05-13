@@ -1,4 +1,4 @@
-package com.davena.exercises.car;
+package com.davena.exercises.Third_lesson.car;
 
 public class SDCar extends Car{
     boolean IsSelfDriving;
